@@ -1,0 +1,8 @@
+# nacos 配置
+host: '192.168.88.105'
+port: 8848
+namespace: 'f63616ae-c9f7-4b7a-9198-c0961c428bc7'
+user: 'nacos'
+password: 'nacos'
+dataid: 'user-web.json'
+group: 'pro'

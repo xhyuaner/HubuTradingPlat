@@ -1,0 +1,7 @@
+host: '192.168.88.105'
+port: 8848
+namespace: '3b3d97f4-289c-460f-8bb8-7857ed5d9538'
+user: 'nacos'
+password: 'nacos'
+dataid: 'order-web.json'
+group: 'pro'
